@@ -1,0 +1,10 @@
+streamlit
+streamlit_option_menu
+PIL
+tensorflow.keras.preprocessing
+tensorflow.keras.applications.inception_v3
+numpy
+firebase_admin
+tensorflow
+json
+streamlit_lottie
