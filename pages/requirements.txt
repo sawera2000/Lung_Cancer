@@ -1,6 +1,6 @@
 streamlit
 streamlit_option_menu
-tensorflow.keras.preprocessing
+tf.keras.preprocessing
 tensorflow.keras.applications.inception_v3
 numpy
 firebase_admin
