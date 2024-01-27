@@ -1,5 +1,5 @@
 import streamlit as st
-from PIL import Image
+#from PIL import Image
 
 def app():
     # Create the first set of columns with spacing
