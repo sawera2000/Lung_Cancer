@@ -1,7 +1,7 @@
 # main.py
 import streamlit as st
 from streamlit_option_menu import option_menu
-from PIL import Image
+#from PIL import Image
 import tensorflow as tf
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.applications.inception_v3 import preprocess_input
